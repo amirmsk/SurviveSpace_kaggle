@@ -19,7 +19,7 @@ To run the notebook, ensure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (install them using `pip install -r requirements.txt` if a `requirements.txt` file is provided).
+- Required Python libraries 
 
 ## How to Use
 
